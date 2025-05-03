@@ -69,7 +69,7 @@ export default function TabsLayout() {
   const fontSize = Math.round(screenHeight * 0.018);
   
   const padding = {
-    horizontal: Math.round(screenWidth * 0.03),
+    horizontal: Math.round(screenWidth * 0.13),
     vertical: Math.round(tabBarHeight * 0.2),
   };
 
